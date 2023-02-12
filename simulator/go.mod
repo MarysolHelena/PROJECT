@@ -1,3 +1,3 @@
-module github.com/MarysolHelena/imersaofullcycle-simulator
+module github.com/MarysolHelena/PROJECT
 
 go 1.16

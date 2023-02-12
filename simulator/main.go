@@ -1,6 +1,6 @@
 package main
 
-import route "github.com/MarysolHelena/imersaofullcycle-simulator/application/route"
+import route "github.com/MarysolHelena/PROJECT/application/route"
 
 
 func main () {
