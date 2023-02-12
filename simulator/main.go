@@ -1,6 +1,6 @@
 package main
 
-import route "github.com/MarysolHelena/PROJECT/application/route"
+import route "github.com/MarysolHelena/PROJECT/simulator/application/route"
 
 
 func main () {
